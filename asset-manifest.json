@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/ANJOR-JUEGO/static/css/main.c7bb61dc.css",
-    "main.js": "/ANJOR-JUEGO/static/js/main.8b6c000c.js",
+    "main.css": "/ANJOR-JUEGO/static/css/main.852d2ab4.css",
+    "main.js": "/ANJOR-JUEGO/static/js/main.5962ca1d.js",
     "static/media/ruleta.png": "/ANJOR-JUEGO/static/media/ruleta.a3a8d46b7f4950f9fe3a.png",
     "static/media/logo.png": "/ANJOR-JUEGO/static/media/logo.0287faac5c365498ad9a.png",
     "static/media/centro.png": "/ANJOR-JUEGO/static/media/centro.17db7f996b76513218f5.png",
     "index.html": "/ANJOR-JUEGO/index.html",
-    "main.c7bb61dc.css.map": "/ANJOR-JUEGO/static/css/main.c7bb61dc.css.map",
-    "main.8b6c000c.js.map": "/ANJOR-JUEGO/static/js/main.8b6c000c.js.map"
+    "main.852d2ab4.css.map": "/ANJOR-JUEGO/static/css/main.852d2ab4.css.map",
+    "main.5962ca1d.js.map": "/ANJOR-JUEGO/static/js/main.5962ca1d.js.map"
   },
   "entrypoints": [
-    "static/css/main.c7bb61dc.css",
-    "static/js/main.8b6c000c.js"
+    "static/css/main.852d2ab4.css",
+    "static/js/main.5962ca1d.js"
   ]
 }
